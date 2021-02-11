@@ -1,9 +1,9 @@
-url: https://chickensmitten.github.io
-baseurl: /agency
+url: https://heydavid-dev.github.io
+baseurl: /staging-agency-1-1
 
 # Site settings
-header_title: Welcome To Our Agency
-header_subtitle: It's Nice to be Friends
+header_title: Welcome to Agency Staging 1
+header_subtitle: This is Agency Staging 1, please take your time, look around
 
 title: Awesome Title
 email: your-email@domain.com
